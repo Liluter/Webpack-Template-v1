@@ -1,0 +1,18 @@
+@import "index2";
+@import "header";
+
+/*main part from index.scss*/
+body {
+    h1 {
+        background-color: rgb(86, 51, 191);
+    }
+    background: url("../assets/img/proba.png");
+
+    .change {
+        background-color: yellow;
+    } 
+}
+
+.autoprefixer {
+    user-select: none;
+}
